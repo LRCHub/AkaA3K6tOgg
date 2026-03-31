@@ -1,80 +1,16 @@
 {
   "version": 1,
-  "base_track": "理芽 - ぷれいや / RIM - The Prayer for Baby-Blue｜from 神椿",
-  "base_artist": "RIM",
-  "createdAt": "2026-03-24T06:21:38.225362Z",
+  "base_track": "ぷれいや - The Prayer for Baby-Blue",
+  "base_artist": "理芽",
+  "createdAt": "2026-03-31T09:10:33.691414Z",
   "candidates": [
     {
-      "id": "lrclib_1",
-      "source": "lrclib",
-      "title": "舞 - feat. 理芽",
-      "artist": "Guiano, 理芽",
-      "has_synced": true,
-      "path": "select/01_舞_-_feat._理芽_Guiano,_理芽.lrc"
-    },
-    {
-      "id": "lrclib_2",
-      "source": "lrclib",
-      "title": "舞 - feat. 理芽",
-      "artist": "Guiano",
-      "has_synced": true,
-      "path": "select/02_舞_-_feat._理芽_Guiano.lrc"
-    },
-    {
-      "id": "lrclib_3",
-      "source": "lrclib",
-      "title": "空っぽなら、踊ろうぜ / Guiano x 理芽",
-      "artist": "RIM",
-      "has_synced": true,
-      "path": "select/03_空っぽなら、踊ろうぜ___Guiano_x_理芽_RIM.lrc"
-    },
-    {
-      "id": "lrclib_4",
-      "source": "lrclib",
-      "title": "いつもシミュレーション  / Guiano x 理芽",
-      "artist": "RIM",
-      "has_synced": true,
-      "path": "select/04_いつもシミュレーション___Guiano_x_理芽_RIM.lrc"
-    },
-    {
-      "id": "lrclib_5",
-      "source": "lrclib",
-      "title": "言っちゃいけないことばっか浮かぶよな / Guiano x 理芽",
-      "artist": "RIM",
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ぷれいや",
+      "artist": "理芽",
       "has_synced": false,
-      "path": "select/05_言っちゃいけないことばっか浮かぶよな___Guiano_x_理芽_RIM.txt"
-    },
-    {
-      "id": "lrclib_6",
-      "source": "lrclib",
-      "title": "まほう feat.理芽",
-      "artist": "花譜 (KAF)",
-      "has_synced": true,
-      "path": "select/06_まほう_feat.理芽_花譜_(KAF).lrc"
-    },
-    {
-      "id": "lrclib_7",
-      "source": "lrclib",
-      "title": "理芽 - 狂えない  / RIM - (Not) Lunatic (Official Music Video) #30",
-      "artist": "RIM",
-      "has_synced": true,
-      "path": "select/07_理芽_-_狂えない___RIM_-_(Not)_Lunatic_(Official_Music_Video)__30_RIM.lrc"
-    },
-    {
-      "id": "lrclib_8",
-      "source": "lrclib",
-      "title": "透過夏 (feat. 理芽)",
-      "artist": "Guiano",
-      "has_synced": true,
-      "path": "select/08_透過夏_(feat._理芽)_Guiano.lrc"
-    },
-    {
-      "id": "lrclib_9",
-      "source": "lrclib",
-      "title": "抱きしめて - indigo la End / Covered by 理芽 - RIM",
-      "artist": "RIM",
-      "has_synced": true,
-      "path": "select/09_抱きしめて_-_indigo_la_End___Covered_by_理芽_-_RIM_RIM.lrc"
+      "path": "select/pl_01_ぷれいや_理芽.txt"
     }
   ]
 }
